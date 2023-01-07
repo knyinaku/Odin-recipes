@@ -1,1 +1,2 @@
 # Odin-recipes
+Odin-recipes is a project I;m embarking on to recollect and learn more about the HTML tags and elements I have learnt in the odin project. It is gonna test my knowledge on HTML as well as some git hub commands that I have learnt from the Odin project.
